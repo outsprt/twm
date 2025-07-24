@@ -13,3 +13,8 @@ This project contains localization files for the **Titanium Wars** mod for *Dawn
 
 Contributions and suggestions are welcome. Help us keep the lore intact while making the mod accessible to Russian-speaking players.
 
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
