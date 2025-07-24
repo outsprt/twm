@@ -13,6 +13,19 @@ This project contains localization files for the **Titanium Wars** mod for *Dawn
 
 Contributions and suggestions are welcome. Help us keep the lore intact while making the mod accessible to Russian-speaking players.
 
+## Localization Roadmap
+
+To stay organized, track progress directly in this file. Mark each stage as complete and update the current stage as you work through the list.
+
+1. **Encoding cleanup** – remove BOM and convert all `.cfg` files to UTF‑8. *(Done)*
+2. **UI text review** – translate and verify strings in `DXP2.cfg` and `DXP2_VO.cfg`.
+3. **Unit descriptions** – work through `AllGWUnits.cfg` and `AllGWUnits_SS.cfg`.
+4. **Heroes and special cases** – translate entries in `Heroes.cfg`.
+5. **Final proofreading** – check `W40k.cfg` and polish terminology across all files.
+6. **Release and feedback** – package the translation and collect community comments.
+
+Current stage: **Stage 2 – UI text review in progress**.
+
 
 ## License
 
