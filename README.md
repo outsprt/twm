@@ -24,7 +24,7 @@ To stay organized, track progress directly in this file. Mark each stage as comp
 5. **Final proofreading** – check `W40k.cfg` and polish terminology across all files.
 6. **Release and feedback** – package the translation and collect community comments.
 
-Current stage: **Stage 2 – UI text review in progress**.
+Current stage: **Stage 3 – Unit descriptions in progress**.
 
 
 ## License
